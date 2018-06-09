@@ -1,0 +1,5 @@
+get:
+  summary: Returns all resources
+  responses:
+    '200':
+      description: List of all resources
