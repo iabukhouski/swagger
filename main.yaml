@@ -4,4 +4,4 @@ info:
   version: 0.0.1
 paths:
   /resources:
-    $ref: ./resources/resources.yaml
+    $ref: ./resources.yaml
