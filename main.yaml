@@ -1,0 +1,7 @@
+swagger: "2.0"
+info:
+  title: Test integration of GitHub pages and Swagger
+  version: 0.0.1
+paths:
+  /resources:
+    $ref: ./resources/resources.yaml
